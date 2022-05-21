@@ -1,0 +1,9 @@
+* SCRIPTS
+
+By theadventureofe(John Gormley)
+
+Some simple python scripts for various uses.
+Now with emacs lisp. The best language.
+
+
+the_adventure_of_e λ
